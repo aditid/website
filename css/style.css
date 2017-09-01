@@ -92,7 +92,8 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-header,
 .fh5co-cover {
-  background-color: transparent;
+  background-color: var(--main-color);
+  opacity: 0.9;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
